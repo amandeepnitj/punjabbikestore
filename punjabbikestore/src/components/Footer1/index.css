@@ -1,0 +1,33 @@
+.main-footer {
+    color: white;
+    background-color: #3b3b3b;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+li a {
+    color:white;
+  text-decoration: none;
+  text-transform: uppercase;
+  }
+
+h4 {
+  font-size:calc(11px + .5vw);
+}
+h4 li {
+ 
+  font-size:calc(11px + .4vw);
+}
+
+ui li a{
+  font-size:calc(11px + .3vw);
+  color:white;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+ui li a:hover{
+  text-decoration: none;
+  color:grey;
+}

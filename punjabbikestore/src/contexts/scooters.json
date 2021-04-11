@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2019",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    },
+    {
+        "id": 2,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2019",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    },
+    {
+        "id": 3,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2019",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    },
+    {
+        "id": 4,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2019",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    },
+    {
+        "id": 5,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2019",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    },
+    {
+        "id": 6,
+        "pic": "images/scooters.jpg",
+        "amount": "120000",
+        "year" :"2020",
+        "km" :"15000",
+        "title": "Pulser 220F"
+    }
+
+]
